@@ -1,4 +1,7 @@
-/** @author Juan Carlos Herencia */
+/** @author Juan Carlos Herencia
+*	Cambiado 
+*
+ */
 public class Cancion {
 	String titulo, artista, grupo;
 	int anno;
